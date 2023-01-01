@@ -20,62 +20,62 @@ If you'd like to see other mesh generators, domains, or quality measures: Let me
 
 ### Disk
 
-<img src="https://github.com/nschloe/meshgen-comparison/blob/gh-pages/disk-mesh.png?raw=true" width="50%"> | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/disk-times.svg?raw=true) |
+<img src="figs/disk-mesh.png" width="50%"> | ![alt text](figs/disk-times.svg) |
 :-------------:|:-----------------:|
-| ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/disk-quality.svg?raw=true) | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/disk-poisson.svg?raw=true)
+| ![alt text](figs/disk-quality.svg) | ![alt text](figs/disk-poisson.svg)
 
 
 ### L-shape
 
-<img src="https://github.com/nschloe/meshgen-comparison/blob/gh-pages/l-shape-mesh.png?raw=true" width="50%"> | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/l_shape-times.svg?raw=true) |
+<img src="figs/l-shape-mesh.png" width="50%"> | ![alt text](figs/l_shape-times.svg) |
 :-------------:|:-----------------:|
-| ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/l_shape-quality.svg?raw=true) | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/l_shape-poisson.svg?raw=true)
+| ![alt text](figs/l_shape-quality.svg) | ![alt text](figs/l_shape-poisson.svg)
 
 
 ### Rectangle with refinement
 
-<img src="https://github.com/nschloe/meshgen-comparison/blob/gh-pages/rect-with-refinement-mesh.png?raw=true" width="50%"> | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/rect_with_refinement-times.svg?raw=true) |
+<img src="figs/rect-with-refinement-mesh.png" width="50%"> | ![alt text](figs/rect_with_refinement-times.svg) |
 :-------------:|:-----------------:|
-| ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/rect_with_refinement-quality.svg?raw=true) | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/rect_with_refinement-poisson.svg?raw=true)
+| ![alt text](figs/rect_with_refinement-quality.svg) | ![alt text](figs/rect_with_refinement-poisson.svg)
 
 
 ### Quarter annulus
 
-<img src="https://github.com/nschloe/meshgen-comparison/blob/gh-pages/quarter-annulus-mesh.png?raw=true" width="50%"> | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/quarter_annulus-times.svg?raw=true) |
+<img src="figs/quarter-annulus-mesh.png" width="50%"> | ![alt text](figs/quarter_annulus-times.svg) |
 :-------------:|:-----------------:|
-| ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/quarter_annulus-quality.svg?raw=true) | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/quarter_annulus-poisson.svg?raw=true)
+| ![alt text](figs/quarter_annulus-quality.svg) | ![alt text](figs/quarter_annulus-poisson.svg)
 
 
 ### Sphere (surface)
 
-<img src="https://github.com/nschloe/meshgen-comparison/blob/gh-pages/sphere-mesh.png?raw=true" width="50%"> | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/sphere-times.svg?raw=true) |
+<img src="figs/sphere-mesh.png" width="50%"> | ![alt text](figs/sphere-times.svg) |
 :-------------:|:-----------------:|
-| ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/sphere-quality.svg?raw=true) | (Poisson problem not applicable.)
+| ![alt text](figs/sphere-quality.svg) | (Poisson problem not applicable.)
 
 
 ### Ball
 
-<img src="https://github.com/nschloe/meshgen-comparison/blob/gh-pages/ball-mesh.png?raw=true" width="50%"> | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/ball-times.svg?raw=true) |
+<img src="figs/ball-mesh.png" width="50%"> | ![alt text](figs/ball-times.svg) |
 :-------------:|:-----------------:|
-| ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/ball-quality.svg?raw=true) | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/ball-poisson.svg?raw=true)
+| ![alt text](figs/ball-quality.svg) | ![alt text](figs/ball-poisson.svg)
 
 ### Cylinder
 
-<img src="https://github.com/nschloe/meshgen-comparison/blob/gh-pages/cylinder-mesh.png?raw=true" width="50%"> | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/cylinder-times.svg?raw=true) |
+<img src="figs/cylinder-mesh.png" width="50%"> | ![alt text](figs/cylinder-times.svg) |
 :-------------:|:-----------------:|
-| ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/cylinder-quality.svg?raw=true) | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/cylinder-poisson.svg?raw=true)
+| ![alt text](figs/cylinder-quality.svg) | ![alt text](figs/cylinder-poisson.svg)
 
 ### L-shape in 3D
 
-<img src="https://github.com/nschloe/meshgen-comparison/blob/gh-pages/l-shape-3d-mesh.png?raw=true" width="50%"> | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/l_shape_3d-times.svg?raw=true) |
+<img src="figs/l-shape-3d-mesh.png" width="50%"> | ![alt text](figs/l_shape_3d-times.svg) |
 :-------------:|:-----------------:|
-| ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/l_shape_3d-quality.svg?raw=true) | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/l_shape_3d-poisson.svg?raw=true)
+| ![alt text](figs/l_shape_3d-quality.svg) | ![alt text](figs/l_shape_3d-poisson.svg)
 
 ### Box with refinement
 
-<img src="https://github.com/nschloe/meshgen-comparison/blob/gh-pages/box-with-refinement-mesh.png?raw=true" width="50%"> | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/box_with_refinement-times.svg?raw=true) |
+<img src="figs/box-with-refinement-mesh.png" width="50%"> | ![alt text](figs/box_with_refinement-times.svg) |
 :-------------:|:-----------------:|
-| ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/box_with_refinement-quality.svg?raw=true) | ![alt text](https://github.com/nschloe/meshgen-comparison/blob/gh-pages/box_with_refinement-poisson.svg?raw=true)
+| ![alt text](figs/box_with_refinement-quality.svg?raw=true) | ![alt text](figs/box_with_refinement-poisson.svg)
 
 ### License
 This software is published under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.en.html).
